@@ -1,0 +1,10 @@
+file02: linea 1
+file02: linea 2
+file02: linea 3
+file02: linea 4
+file02: linea 5
+file02: linea 6
+file02: linea 7
+file02: linea 8
+file02: linea 9
+file02: linea 10
